@@ -9,4 +9,4 @@ It's a basic blog but I did this with almost 0 knowledge in HTML and CSS
 
 ### https://fabkaiz.github.io/Blog-Grafikart/articles.html
 
-#### The other pages Accueil / A Propos / Contact not finished yet
+#### The others pages Accueil / A Propos / Contact are not finished yet
